@@ -1,0 +1,13 @@
+[package]
+name = "compat_derive"
+version = "0.0.0"
+license = "MIT OR Apache-2.0"
+description = "Automatic backward compatibility for structs and enums"
+homepage = "https://github.com/ryo33/Compat"
+repository = "https://github.com/ryo33/Compat"
+readme = "../README.md"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

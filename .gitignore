@@ -1,0 +1,8 @@
+*
+!*/
+/target
+
+!*.rs
+!.gitignore
+!Cargo.toml
+!README.md
